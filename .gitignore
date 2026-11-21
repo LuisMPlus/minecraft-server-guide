@@ -1,0 +1,30 @@
+﻿# Binarios y dependencias
+*.jar
+cache/
+libraries/
+versions/
+.paper/
+
+# Mundos y logs
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+*.log
+
+# Archivos de estado y datos sensibles/locales
+usercache.json
+banned-ips.json
+banned-players.json
+whitelist.json
+ops.json
+plugins/
+config/
+server.properties
+bukkit.yml
+spigot.yml
+commands.yml
+eula.txt
+START.bat
+permissions.yml
