@@ -91,7 +91,7 @@ Cuando mueres, todos tus objetos y tu experiencia quedan protegidos dentro de un
 
 | Comando | Descripción |
 | :--- | :--- |
-| `/grave` | Muestra una lista de tus tumbas activas, el tiempo restante para recogerlas y las coordenadas exactas `(X, Y, Z)` de tu muerte. |
+| `/grave` | Muestra una lista de tus tumbas activas y las coordenadas exactas `(X, Y, Z)` de tu muerte (*las tumbas no expiran*). |
 
 * Al llegar a tu tumba, haz clic derecho sobre ella para recuperar automáticamente todos tus ítems y armadura equipada.
 
