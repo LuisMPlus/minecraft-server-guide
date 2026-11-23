@@ -115,7 +115,7 @@ Permite ponerte la skin que quieras, tanto para cuentas oficiales como no oficia
 ### 🌍 Chunky (Pregeneración del Mundo):
 * `chunky world world` — Selecciona el Overworld.
 * `chunky spawn` — Centra el punto en el spawn.
-* `chunky radius 2500` — Fija el radio a 2.500 bloques (área cuadrada total de 5.000 × 5.000 bloques).
+* `chunky radius 3500` — Fija el radio a 3.500 bloques (área cuadrada total de 7.000 × 7.000 bloques). *(Para un cuadrado de 5.000 usa radio `2500`)*.
 * `chunky start` — Comienza la pregeneración de chunks.
 * `chunky progress` — Muestra el porcentaje y chunks generados.
 * `chunky pause` / `chunky continue` — Pausa o reanuda la tarea.
